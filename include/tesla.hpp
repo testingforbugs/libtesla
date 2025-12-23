@@ -1,5 +1,6 @@
 /**
  * Copyright (C) 2020 werwolv
+ * Copyright (C) 2025 testingforbugs
  *
  * This file is part of libtesla.
  *
